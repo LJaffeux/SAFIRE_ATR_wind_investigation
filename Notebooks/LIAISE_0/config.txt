@@ -1,0 +1,7 @@
+timesteps = 60
+resampling = '10s'
+data = '['LIAISE']'
+INS = '['IMU1']'
+features = ['AOA_RAD', 'AOS_RAD', 'PITCH', 'ROLL', 'GROUND_SPEED', 'VERTICAL_SPEED', 'TAS']
+version = LIAISE_0
+observations = 
