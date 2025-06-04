@@ -36,7 +36,7 @@ This project is focused on investigating wind sensing sytems (during the MAESTRO
    ```bash
    jupyter notebook
    ```
-   Open any notebook in the `/notebooks/` directory to begin exploring the data.
+   Open any notebook in the `/notebooks/` directory to begin.
 
 # Notebooks Overview
 
