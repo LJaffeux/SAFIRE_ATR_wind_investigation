@@ -16,7 +16,7 @@ This project is focused on investigating wind sensing sytems (during the MAESTRO
 
 - `/Notebooks/` — Jupyter Notebooks for exploration and analysis.
 - `/Data/` — Folder for data files used in the analysis.
-- `/Plots/` — Folder for output figures.
+- `/Plots/` — Folder for output figures (Will be created when Plotting).
 - `README.md` — Project documentation.
 
 ## Getting Started
